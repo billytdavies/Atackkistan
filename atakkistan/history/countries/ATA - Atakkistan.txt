@@ -8,6 +8,8 @@ set_technology = {
 	tech_recon = 1
 }
 
+set_research_slots = 2
+
 set_politics = {
 
 	parties = {
